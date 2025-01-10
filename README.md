@@ -1,4 +1,5 @@
-# AKM Cyber Corp.
+# AKM Cyber Corp
+![logo](images/AKMCyberLogo.png)
 ## AIM
 Asset Integrity Management (AIM) for AKM
 
